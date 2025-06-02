@@ -1,0 +1,15 @@
+C:\Users\titim\source\repos\Project11a11\Project11a11\obj\Debug\Project11a11.csproj.AssemblyReference.cache
+C:\Users\titim\source\repos\Project11a11\Project11a11\obj\Debug\Project11a11.Properties.Resources.resources
+C:\Users\titim\source\repos\Project11a11\Project11a11\obj\Debug\Project11a11.csproj.GenerateResource.cache
+C:\Users\titim\source\repos\Project11a11\Project11a11\obj\Debug\Project11a11.csproj.CoreCompileInputs.cache
+C:\Users\titim\source\repos\Project11a11\Project11a11\bin\Debug\Project11a11.exe.config
+C:\Users\titim\source\repos\Project11a11\Project11a11\bin\Debug\Project11a11.exe
+C:\Users\titim\source\repos\Project11a11\Project11a11\bin\Debug\Project11a11.pdb
+C:\Users\titim\source\repos\Project11a11\Project11a11\bin\Debug\EntityFramework.dll
+C:\Users\titim\source\repos\Project11a11\Project11a11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\titim\source\repos\Project11a11\Project11a11\bin\Debug\EntityFramework.xml
+C:\Users\titim\source\repos\Project11a11\Project11a11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\titim\source\repos\Project11a11\Project11a11\obj\Debug\Project1.9A1BF511.Up2Date
+C:\Users\titim\source\repos\Project11a11\Project11a11\obj\Debug\Project11a11.exe
+C:\Users\titim\source\repos\Project11a11\Project11a11\obj\Debug\Project11a11.pdb
+C:\Users\titim\source\repos\Project11a11\Project11a11\obj\Debug\Project11a11.Migrations.firstMigration.resources
